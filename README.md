@@ -18,3 +18,5 @@ techniques. Results indicate significant improvements in residual
 energy, the number of active nodes, and convergence speed,
 demonstrating the effectiveness of the modified PSO in energy
 efficient WSN management
+
+https://ieeexplore.ieee.org/abstract/document/11169878/
