@@ -20,3 +20,5 @@ demonstrating the effectiveness of the modified PSO in energy
 efficient WSN management
 
 https://ieeexplore.ieee.org/abstract/document/11169878/
+
+https://ieeexplore.ieee.org/abstract/document/11053807
